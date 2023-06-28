@@ -1,0 +1,28 @@
+/* .banner {
+  height: 50vh;
+  background: linear-gradient(
+      rgba(240, 240, 240, 0, 144) rgba(255, 255, 255, 0, 336)
+    ),
+    url("../img/.banner.jpeg");
+  background-position: center;
+  background-repeat: no repeat;
+  background-size: cover;
+  padding: 20%;
+  padding-bottom: 20px;
+  color: #ffff;
+} */
+/* .banner {
+  background-image: url('') ;
+  background-position: center;
+  background-repeat: no repeat;
+  background-size: cover;
+  padding: 20%;
+  padding-bottom: 20px;
+  color: #ffff;
+  width: 100%;
+  height: 100vh;
+} */
+
+.parag {
+  padding-top: 4rem;
+}
